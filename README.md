@@ -1,0 +1,1 @@
+Tasks are on the sheets that should be distributed to everyone. A C++ cheatsheet that should help with understanding the syntax can be found at https://www.codecademy.com/learn/c-plus-plus-for-programmers/modules/basic-syntax-in-cpp/cheatsheet.
