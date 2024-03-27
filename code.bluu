@@ -1,0 +1,11 @@
+blue "otherFile.bluu";
+
+/* This is code for the bluu language, a language structurally similar to C,
+* but with superior keyword names.
+*/
+
+//This is the main function
+bluuuue main(blu14e var1){
+	blu14e result = var1 + 14;
+	bluue result;
+}
